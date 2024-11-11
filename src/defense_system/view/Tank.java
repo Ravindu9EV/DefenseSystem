@@ -4,6 +4,7 @@
  */
 package defense_system.view;
 
+import defense_system.controller.MainController;
 import defense_system.DefenseObserver;
 import defense_system.StrengthEnum;
 import java.awt.event.ActionEvent;

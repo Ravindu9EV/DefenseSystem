@@ -4,7 +4,7 @@
  */
 package defense_system;
 
-import defense_system.view.MainController;
+import defense_system.controller.MainController;
 import java.awt.event.ActionEvent;
 import java.awt.event.MouseEvent;
 

@@ -4,7 +4,7 @@
  */
 package defense_system;
 
-import defense_system.view.MainController;
+import defense_system.controller.MainController;
 import defense_system.view.Helicopter;
 import defense_system.view.Submarine;
 import defense_system.view.Tank;

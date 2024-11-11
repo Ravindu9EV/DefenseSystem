@@ -4,6 +4,7 @@
  */
 package defense_system.view;
 
+import defense_system.controller.MainController;
 import com.sun.java.accessibility.util.AWTEventMonitor;
 import defense_system.DefenseObserver;
 
